@@ -1,6 +1,11 @@
 # Write a Brief Descriptive Title Here
 
-Authors:  **Name 1**, **Name 2**, etc.
+Authors:  
+
+Amit Santosh Upadhyay, amitsant@buffalo.edu
+Anikesh Shende, anikeshg@buffalo.edu
+Samarth Karelia, samartha@buffalo.edu
+Sudarshan Shenoy, sshenoy3@buffalo.edu
 
 YouTube Video:  [Link](http://your_link_goes_here)
 
@@ -15,10 +20,21 @@ YouTube Video:  [Link](http://your_link_goes_here)
 
 | ID | Task Description | Due Date | Status |
 | --- | --- | --- | --- |
-| 1 | Update this table with detailed list of tasks | 2023-05-08 | DONE |
-| ... |  | | 
-| n-1 | Complete YouTube video and upload to YouTube | 2023-05-16 | |
-| n | Upload README.md document to Github | 2023-05-17 |
+| 1 | Project planning and setup |  | DONE |
+| 2 | Selection of key inventory optimization techniques for project | | DONE |
+| 3 | Research and selection of appropriate data sources (such as the Ali Express API) | | DONE |
+| 4 | Set up API authentication and begin data gathering | | DONE |
+| 5 | Exploratory data analysis (EDA) | | DONE |
+| 6 | Data Preprocessing and cleaning | | DONE |
+| 7 | Implementation ABC analysis function | | DONE |
+| 8 |  Implementation VED analysis function| | DONE |
+| 9 | Implementation HML analysis function | | | IN PROCESS |
+| 10 | Implementation SDE analysis function| | | IN PROCESS |
+| 11 | Implementation safety stock analysis function | | IN PROCESS |
+| 12 | Performing unit testing and debugging for all functions | | IN PROCESS |
+| 13 | Documentation of whole   | | IN PROCESS |
+| 14 | Complete YouTube video and upload to YouTube | 2023-05-16 | IN PROCESS |
+| 15 | Upload README.md document to Github | 2023-05-17 | IN PROCESS |
 
 --- 
 
